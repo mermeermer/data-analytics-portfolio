@@ -9,7 +9,7 @@ This project analyzes the Amazon Prime titles dataset using Power BI to understa
 - Data Visualization
 
 ## Dashboard Preview
-![Amazon Prime Dashboard](amazon-prime-dashboard.png)
+![Amazon Prime Dashboard](amazon-prime-dashboard.jpg)
 
 ## Key Insights
 - Movies dominate Amazon Prime's catalog compared to TV shows.
