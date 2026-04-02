@@ -18,8 +18,16 @@ I specialize in Power BI dashboards, Excel data analysis, and data visualization
 A Power BI dashboard analyzing loan risk, customer behavior, and default patterns.
 [View Project](./loan-risk-powerbi-dashboard)
 
+Tools Used: MS Excel, Power BI, DAX, Power Query
+
+### 2. Amazon Prime Content Analysis Dashboard
+Analyzed Amazon Prime titles to uncover trends in genres, content distribution, and release patterns.
+[View Project](./amazon-prime-analysis)
+
+Tools Used: MS Excel, Power BI, Data Cleaning, Data Visualization
+
 
 ## Contact
-LinkedIn: (add later)  
+LinkedIn: www.linkedin.com/in/shahmir-ali-eco
 Fiverr: (add later)  
 Upwork: (add later)
