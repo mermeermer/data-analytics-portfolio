@@ -29,5 +29,4 @@ Tools Used: MS Excel, Power BI, Data Cleaning, Data Visualization
 
 ## Contact
 LinkedIn: www.linkedin.com/in/shahmir-ali-eco
-Fiverr: (add later)  
-Upwork: (add later)
+Fiverr: www.fiverr.com/s/yv0kw0A
