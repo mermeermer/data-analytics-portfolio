@@ -56,5 +56,6 @@ Analyzed Amazon Prime titles to uncover trends in genres, content distribution, 
 
 - **LinkedIn:** [Shahmir Ali](https://www.linkedin.com/in/shahmir-ali-eco)
 - **Fiverr:** [View my Fiverr profile](https://www.fiverr.com/s/yv0kw0A)
+- **GitHub:** [mermeermer](https://github.com/mermeermer)
 
 Thank you for visiting my portfolio!
