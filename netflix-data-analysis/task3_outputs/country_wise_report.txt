@@ -1,0 +1,38 @@
+NETFLIX COUNTRY-WISE CONTENT ANALYSIS
+==================================================
+
+DATASET OVERVIEW
+Total dataset rows: 8,790
+Unique titles: 8,790
+Countries identified: 85
+Titles without country information: 287
+Titles with at least one known country: 8,503
+
+TOP 10 COUNTRIES
+------------------------------
+1. United States: 3,240 titles
+2. India: 1,057 titles
+3. United Kingdom: 638 titles
+4. Pakistan: 421 titles
+5. Canada: 271 titles
+6. Japan: 259 titles
+7. South Korea: 214 titles
+8. France: 213 titles
+9. Spain: 182 titles
+10. Mexico: 138 titles
+
+KEY FINDINGS
+The country with the highest title count is United States, with 3,240 titles.
+The dataset contains 287 titles without usable country information.
+
+METHODOLOGY AND LIMITATIONS
+Titles listing multiple countries are counted once for each listed country.
+Each title-country combination is counted only once.
+Country counts therefore represent title-country associations and may add up to more than the total number of unique titles.
+Country percentages use the number of unique titles with at least one known country as the denominator. They may add up to more than 100% because titles can be associated with multiple countries.
+These results describe the dataset and do not, by themselves, establish audience preferences or viewing performance.
+
+OUTPUT FILES
+top_10_countries_chart.png
+country_wise_summary.csv
+country_wise_report.txt

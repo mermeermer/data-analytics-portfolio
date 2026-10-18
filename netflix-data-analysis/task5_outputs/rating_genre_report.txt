@@ -1,0 +1,30 @@
+NETFLIX CONTENT RATING AND GENRE ANALYSIS
+==================================================
+
+DATASET OVERVIEW
+Total unique titles: 8,790
+Unique ratings/categories: 14
+Genres identified: 42
+
+KEY FINDINGS
+Most common rating overall: TV-MA (3,205 titles).
+Most common genre: International Movies (2,752 titles).
+Most common Movie rating category: TV-MA (2,062 titles).
+Most common TV Show rating category: TV-MA (1,143 titles).
+
+METHODOLOGY AND LIMITATIONS
+Genre counts include one association per title and genre. A title can belong to multiple genres.
+Rating counts describe the dataset's recorded rating labels. They do not directly measure audience age or viewing behavior.
+The rating-by-type chart compares the number of titles. Use the percentage summary for comparisons that account for different totals of Movies and TV Shows.
+These results describe the available dataset and do not establish audience preferences or viewing performance.
+
+INTERACTIVE CHARTS
+rating_distribution.html
+top_genres.html
+ratings_by_content_type.html
+
+CSV OUTPUTS
+rating_summary.csv
+genre_summary.csv
+ratings_by_content_type.csv
+rating_percentages_by_type.csv

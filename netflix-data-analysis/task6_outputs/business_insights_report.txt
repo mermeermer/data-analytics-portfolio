@@ -1,0 +1,44 @@
+NETFLIX BUSINESS INSIGHTS REPORT
+=================================================================
+
+1. EXECUTIVE SUMMARY
+The dataset contains 8,790 unique titles. Movies represent 69.69% and TV Shows represent 30.31% of the titles.
+The most frequent recorded rating is TV-MA (3,205 titles).
+The most frequent genre is International Movies (2,752 titles).
+
+2. KEY FINDINGS
+Content type: Movie is the largest content type in the dataset.
+Country: United States ranks first by title-country associations (3,240).
+Genre: International Movies ranks first by genre-title associations.
+Release years: the earliest recorded year is 1925, and the latest recorded year is 2021.
+The year with the largest number of titles in this dataset is 2018, with 1,146 titles.
+Titles without country information: 287.
+
+3. BUSINESS RECOMMENDATIONS
+Catalog planning: review the current balance between Movies and TV Shows alongside business goals and customer demand.
+Content localization: investigate country-level catalog coverage and regional viewing data before prioritizing new local productions or licensing.
+Genre strategy: compare leading genres with viewing hours, completion rates, subscriber retention, and production costs before making investment decisions.
+Audience suitability: use content ratings to improve catalog filtering and age-appropriate discovery, while following the applicable rating definitions.
+Data quality: maintain consistent country, rating, and genre values and monitor records without country information.
+
+4. IMPORTANT LIMITATIONS
+This dataset describes titles and their metadata, not actual views, revenue, profit, subscriber preferences, or engagement.
+Country counts are title-country associations. A title associated with multiple countries contributes to each one.
+Genre counts are title-genre associations. A title may belong to multiple genres.
+The latest release year in this dataset is not necessarily the current year. Do not interpret the dataset as a complete or live Netflix catalog.
+Business recommendations are hypotheses to investigate. They should be validated using viewing, revenue, cost, and subscriber data before operational decisions are made.
+
+5. OUTPUT FILES
+netflix_business_dashboard.html
+content_distribution.html
+top_countries.html
+top_genres.html
+release_year_trend.html
+ratings_by_type.html
+content_type_summary.csv
+rating_summary.csv
+country_summary.csv
+genre_summary.csv
+release_year_summary.csv
+rating_type_summary.csv
+business_insights_report.txt

@@ -1,0 +1,24 @@
+NETFLIX RELEASE-YEAR TREND ANALYSIS
+==================================================
+
+DATASET OVERVIEW
+Total unique titles: 8,790
+Titles with valid release years: 8,790
+Titles without valid release years: 0
+Earliest release year: 1925
+Latest release year: 2021
+
+KEY FINDINGS
+The highest yearly title count occurred in 2018, with 1,146 titles.
+The CSV includes yearly counts, changes in counts, and percentage changes compared with the previous year.
+
+INTERPRETATION AND LIMITATIONS
+Release year indicates when a title was originally released, not necessarily when it was added to Netflix.
+The dataset is a snapshot of Netflix titles and does not represent every title released worldwide in each year.
+The newest years may be incomplete in this dataset, so their lower counts should be interpreted cautiously.
+Percentage change is left blank when the previous year has zero titles because the calculation is undefined.
+
+OUTPUT FILES
+release_year_trend.png
+release_year_summary.csv
+release_year_report.txt

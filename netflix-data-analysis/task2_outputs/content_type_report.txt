@@ -1,0 +1,22 @@
+NETFLIX CONTENT TYPE ANALYSIS - SUMMARY
+=============================================
+Total titles analyzed: 8,790
+Movies: 6,126 (69.69%)
+TV Shows: 2,664 (30.31%)
+Difference: 39.39 percentage points
+
+KEY FINDINGS
+1. Movies represent 69.69% of the dataset.
+2. TV Shows represent 30.31% of the dataset.
+3. Movies exceed TV Shows by 39.39 percentage points.
+
+INTERPRETATION
+The dataset contains a larger share of movies than TV shows.
+This describes the dataset's composition; it does not, by itself,
+establish audience preferences or viewing performance.
+
+OUTPUT FILES
+content_type_bar_chart.png
+content_type_pie_chart.png
+content_type_summary.csv
+content_type_report.txt
